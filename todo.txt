@@ -1,0 +1,1 @@
+Hi, from vim on Windows!
